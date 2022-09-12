@@ -1,6 +1,6 @@
 ## Dasetaba
 
-```ps
+```fish
 Description:
   Sample app for System.CommandLine
 
